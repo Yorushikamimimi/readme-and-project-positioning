@@ -1,0 +1,4 @@
+interface:
+  display_name: "README 写作与项目说明"
+  short_description: "让首次读者看懂项目用途、具体用法和开始入口，保留真实验证边界"
+  default_prompt: "使用 $readme-and-project-positioning，根据当前项目写清用途、使用流程、开始入口与限制。"
